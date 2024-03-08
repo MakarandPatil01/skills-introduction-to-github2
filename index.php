@@ -59,7 +59,6 @@
 </style>
 <!-- footer -->
 
-
 <!-- index style -->
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -69,9 +68,6 @@
     rel="stylesheet">
 
 <body>
-
-
-
 
     <!-- Banner -->
     <div class="banner pq-bg-dark py-0 ">
@@ -155,8 +151,8 @@
                                     src="rev/assets/slider-2/dummy.png" alt="" class="tp-rs-img rs-lazyload"
                                     width="1992" height="1807" data-lazyload="rev/assets/slider-2/4-2.png"
                                     data-no-retina>
-                            </rs-layer><!--
-    --> </rs-slide>
+                            </rs-layer>
+                            </rs-slide>
                         <rs-slide style="position: absolute;" data-key="rs-31" data-title="Slide"
                             data-anim="adpr:false;ms:300;" data-in="o:0;" data-out="a:false;">
                             <img src="rev/assets/slider-2/dummy.png" alt="Slide"
@@ -723,12 +719,6 @@
         </div>
 
     </section>
-
-
-
-
-
-
 
     <section class="testimonial  pq-bg-grey">
 
